@@ -19,4 +19,9 @@ def calcule(num1, operator, num2):
             return "Division par zéro"
     else:
         return "Opérateur non valide"
+    
+
+resultat = calcule(10, "+", 3)
+print(resultat)   
+
 
