@@ -3,5 +3,3 @@ def list():
     return fruits
 l=list()
 print(l)
-
-
