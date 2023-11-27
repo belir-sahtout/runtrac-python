@@ -1,5 +1,5 @@
 liste = [5,2,4,3,1]
+print(liste)
+liste = sorted(liste)
 
-croiss = sorted(liste)
-
-print("ordre croissant : ", croiss)
+print("ordre croissant : ", liste)
